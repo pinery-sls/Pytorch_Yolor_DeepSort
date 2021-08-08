@@ -1,12 +1,7 @@
 # Pytorch_Yolor_DeepSort
  Yolor and  DeepSort
-
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="webm" src="result.webm" type="video/webm">
-</videos>
-
  
- ## Tracking sources
+## Tracking sources
 
 Tracking can be run on most video formats
 
