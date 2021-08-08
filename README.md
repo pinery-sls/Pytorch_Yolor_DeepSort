@@ -1,7 +1,10 @@
 # Pytorch_Yolor_DeepSort
  Yolor and  DeepSort
  
- <iframe height=498 width=510 src="result.mp4">
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="result.mp4" type="video/mp4">
+</video>
+
  
  ## Tracking sources
 
