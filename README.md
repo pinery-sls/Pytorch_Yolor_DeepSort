@@ -1,9 +1,15 @@
 # Pytorch_Yolor_DeepSort
  Yolor and  DeepSort
  
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="result.mp4" type="video/mp4">
-</video>
+<!-- mp4格式 -->
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="result.mp4" type="video/mp4">
+</videos>
+
+<!-- webm格式 -->
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="webm" src="result.webm" type="video/webm">
+</videos>
 
  
  ## Tracking sources
