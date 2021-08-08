@@ -1,7 +1,7 @@
 # Pytorch_Yolor_DeepSort
  Yolor and  DeepSort
 
-![demo](result.gif)
+![demo](demo.gif)
 
 ## Tracking sources
 
