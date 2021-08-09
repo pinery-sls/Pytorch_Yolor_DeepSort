@@ -1,7 +1,7 @@
 # Pytorch_Yolor_DeepSort
  Yolor and  DeepSort
 
-![demo](demo.gif)
+![demo](demo_yolov4_deepsort.gif)
 
 ## Download
 ### deepsort
