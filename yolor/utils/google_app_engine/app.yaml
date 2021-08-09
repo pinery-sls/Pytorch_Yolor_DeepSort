@@ -1,7 +1,7 @@
 runtime: custom
 env: flex
 
-service: yolorapp
+service: yolov3app
 
 liveness_check:
   initial_delay_sec: 600
